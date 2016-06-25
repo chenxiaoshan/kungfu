@@ -6,3 +6,6 @@ Kungfu Framework is a simple and lightweight Java web framework built for rapid 
 2. Embedded code generation capability. help you to achieve speed development.
 3. Support dynamic native SQL.
 4. Provide utility set.
+
+
+##接口案例
